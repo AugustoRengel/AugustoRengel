@@ -6,8 +6,8 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-Meu primeiro contato com a programação foi em 2018, no início da faculdade de eng. Biomédica, mas foi em 2020 com a criação do meu primeiro app que decidi focar em desenvolvimento de software. Desde então, publiquei mais um app e fiz alguns projetos enquanto estudava python, C# e Kotlin.
-Atualmente, trabalho como estagiário na Siemens Healthineers, sendo responsável por desenvolver sistemas e automatizar processos.
+My first contact with programming was in 2018, at the beginning of my Biomedical Engineering college degree. However, it was in 2020, with the creation of my first app, that I decided to focus on software development. Since then, I have published one more app and worked on several projects while studying Python, C#, and Kotlin. <br>
+Currently, I work as an intern at Siemens Healthineers, where I am responsible for developing systems and automating processes.
 <br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
