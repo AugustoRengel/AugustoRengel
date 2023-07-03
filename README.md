@@ -35,7 +35,7 @@ Atualmente, trabalho como estagiário na Siemens Healthineers, sendo responsáve
 ##
 <p align="center">
 <a href="https://github.com/AugustoRengel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoRengel&show_icons=true&theme=gotham&include_all_commits=false&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoRengel&layout=compact&langs_count=8&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AugustoRengel&show_icons=true&theme=gotham&include_all_commits=false&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AugustoRengel&layout=compact&langs_count=8&theme=gotham"/>
 </a>
 </p>
