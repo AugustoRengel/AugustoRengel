@@ -4,6 +4,8 @@
 <a href="https://www.linkedin.com/in/augusto-wollace-de-lima-rengel-4922071b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+![Snake animation](https://github.com/AugustoRengel/AugustoRengel/blob/output/github-contribution-grid-snake.svg)
+
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 My first contact with programming was in 2018, at the beginning of my Biomedical Engineering college degree. However, it was in 2020, with the creation of my first app, that I decided to focus on software development. Since then, I have published one more app and worked on several projects while studying Python, C#, and Kotlin. <br>
