@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/augusto-wollace-de-lima-rengel-4922071b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/AugustoRengel/AugustoRengel/blob/output/github-contribution-grid-snake.svg)
+[![An image of @augustorengel's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/augustorengel)](https://holopin.io/@augustorengel)
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -33,11 +33,3 @@ Currently, I work as an intern at Siemens Healthineers, where I am responsible f
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,figma,unity,blender,mysql&perline=14" />
 </a>
-
-##
-<p align="center">
-<a href="https://github.com/AugustoRengel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoRengel&show_icons=true&theme=gotham&include_all_commits=false&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoRengel&layout=compact&langs_count=8&theme=gotham"/>
-</a>
-</p>
