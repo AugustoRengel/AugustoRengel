@@ -18,15 +18,17 @@ Since then, I have published two apps with more than 30k monthly users and dedic
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 350px></picture>
 
 ### Languages
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,cs,java,kotlin,html,css&perline=14" />
-</a>
+<p>
+  <img src="https://fsharp.org/img/logo/fsharp.svg" height="48" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,py,kotlin&perline=14" />
+  </a>
+</p>
 
 ### Frameworks
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,dotnet,spring&perline=14" />
+  <img src="https://skillicons.dev/icons?i=dotnet,fastapi,androidstudio&perline=14" />
 </a>
 
 ### Databases
